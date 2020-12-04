@@ -67,6 +67,7 @@
 |獨立媒體|https://mewe.com/p/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94wwwinmediahknet1|
 |Terry的媒體懶人堂|https://mewe.com/p/terry的媒體懶人堂|
 |PSHK|https://mewe.com/p/photographicsocietyhk|
+|Parity Media HK 社衡媒體|https://mewe.com/p/paritymediahk|
 
 ## 港島區
 |<p style='font-size:20px'>港島區</p>||
@@ -181,7 +182,7 @@
 |香港人生活在澳洲🇦🇺|https://mewe.com/join/aushkers|
 |香港人在日本|https://mewe.com/join/hongkongerliveinjapan|
 |香港人在美國首都大華府|https://mewe.com/join/dchkgers|
-|香港人在新加坡 HONG KONG TOWN - SINGAPORE (HKER IN SG)|https://mewe.com/join/香港人在新加坡hongkongtown|
+|香港人在新加坡 HONG KONG TOWN - SINGAPORE (HKER IN SG)|https://mewe.com/join/hongkongerinsingapore|
 |香港人在德國|https://mewe.com/join/dehkers|
 |香港人在檳城|https://mewe.com/join/hkerinpenang|
 |海外港人💛OVERSEAS HONGKONGER|https://mewe.com/join/overseashongkonger|
@@ -207,6 +208,7 @@
 |Hong Kongers in the UK 香港人在英國|https://mewe.com/join/hongkongersinuk|
 |HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
+|香港人- 加拿大移民討論區|https://mewe.com/join/hk-to-canada|
 
 ## 本土
 |<p style='font-size:20px'>本土</p>||
@@ -576,6 +578,7 @@
 |sales同工圍爐區|https://mewe.com/join/香港sales同路人圍爐取爐區|
 |非中國製嘅小朋友用品|https://mewe.com/join/bbgoodsabc_canto|
 |市集資訊及檔主經驗分享區(香港)|https://mewe.com/group/5fb7a9476aab7206998bb643|
+|電訊台|https://mewe.com/join/電訊台|
 
 ## 移民
 |<p style='font-size:20px'>移民</p>||
@@ -621,7 +624,9 @@
 |小熊來電、whoscall、芝麻來電、小鴨幹線|https://mewe.com/p/hkjunkcall.com|
 |HKEPC|https://mewe.com/p/hkepc|
 |PCM 官方mewe|https://mewe.com/p/pcmxplay.it|
-|Apple User Club|ttps://mewe.com/p/appleuserclub|
+|Apple User Club|https://mewe.com/p/appleuserclub|
+|winandmac Media|https://mewe.com/p/winandmachk|
+
 ## KOL
 |<p style='font-size:20px'>KOL</p>||
 |:---|---|
@@ -640,6 +645,7 @@
 |香港新聞文宣轉載|https://mewe.com/p/香港新聞文宣轉載1|
 |Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
 |FORTUNE INSIGHT|https://mewe.com/p/fortuneinsight|
+|邁步工房|https://mewe.com/p/%E9%82%81%E6%AD%A5%E5%B7%A5%E6%88%BF|
 
 ## 運動
 |<p style='font-size:20px'>運動</p>||
@@ -674,7 +680,6 @@
 |食·港女🎗|https://mewe.com/p/eathkgirls1|
 |Little B Kitchen 💛 小B廚房|https://mewe.com/p/littlebkitchen|
 |candace mama|https://mewe.com/p/candacemama|
-|SeafoodGreat 嬌姐海鮮|https://mewe.com/p/seafoodgreatby%E5%AC%8C%E5%A7%90%E6%B5%B7%E9%AE%AE|
 
 ## Gamer
 |<p style='font-size:20px'>Gamer</p>||
@@ -701,12 +706,14 @@
 |:---|---|
 |Nutchies HK|https://mewe.com/p/nutchieshk|
 |RAS Handmade|https://mewe.com/p/rashandmade|
+|Groupbuyheya (Taiwan Groupbuy)|https://mewe.com/p/groupbuyheyataiwangroupbuy|
 
 ## 黃店
 |<p style='font-size:20px'>黃店</p>||
 |:---|---|
 |（黃店）狼婆婆咖啡店 Om Grandma Wolf Coffee|https://mewe.com/p/狼婆婆咖啡店omgrandmawolfcoffee|
-|||
+|SeafoodGreat 嬌姐海鮮|https://mewe.com/p/seafoodgreatby%E5%AC%8C%E5%A7%90%E6%B5%B7%E9%AE%AE|
+|巴打鮮果|https://mewe.com/p/brosfruithk|
 
 ## 其他
 |<p style='font-size:20px'>其他</p>||

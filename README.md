@@ -505,7 +505,7 @@
 |男同性戀|https://mewe.com/join/男同性戀|
 |情侶大小事(匿名投稿)|https://mewe.com/join/lovestory|
 |情感講場 (無人駕駛)|https://mewe.com/join/hklovematters|
-|HEHE💛💙 交友活動協會|https://mewe.com/join/hehe_gatheringhongkong|
+|HEHE 💖 💜 交友活動協會|https://mewe.com/join/hehe_gatheringhongkong|
 |MeWeLove愛情谷🥰|https://mewe.com/join/mewelove|
 
 ## 醫療保健
